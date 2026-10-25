@@ -1,0 +1,74 @@
+[
+  {
+    "id": "taj-mahal-palace",
+    "name": "The Taj Mahal Palace, Mumbai",
+    "shortName": "Taj Mahal Palace",
+    "city": "Colaba, Mumbai, Maharashtra",
+    "tagline": "India's iconic legendary luxury landmark overlooking the Arabian Sea",
+    "category": "Heritage Palace",
+    "price": 28500,
+    "maxGuests": 2,
+    "rating": 5.0,
+    "badge": "World Famous",
+    "badgeColor": "#FF6B8B",
+    "image": "assets/taj-hotel-mumbai.jpg",
+    "features": [
+      "Panoramic Arabian Sea & Gateway of India Views",
+      "24-Hour Dedicated Royal Butler Service",
+      "10 Legendary Fine Dining Restaurants including Wasabi & Golden Dragon",
+      "J Wellness Circle Traditional Ayurvedic Spa & Heritage Art Collection"
+    ],
+    "description": "Opened in 1903, The Taj Mahal Palace is Mumbai's first harbor landmark and one of the most famous grand luxury hotels in the world. Blending Moorish, Oriental, and Florentine architectural styles, it features vaulted alabaster ceilings, onyx columns, hand-woven silk carpets, and crystal chandeliers, having hosted royalty, dignitaries, and celebrities for over a century.",
+    "color": "#FFE5EC",
+    "accentColor": "#FF5D8F",
+    "icon": "🏰"
+  },
+  {
+    "id": "oberoi-udaivilas",
+    "name": "The Oberoi Udaivilas, Udaipur",
+    "shortName": "The Oberoi Udaivilas",
+    "city": "Lake Pichola, Udaipur, Rajasthan",
+    "tagline": "Voted World's #1 Hotel atop the romantic waters of Lake Pichola",
+    "category": "Lakeside Palace",
+    "price": 38000,
+    "maxGuests": 3,
+    "rating": 5.0,
+    "badge": "Royal Romance",
+    "badgeColor": "#FFAE03",
+    "image": "assets/oberoi-udaivilas.jpg",
+    "features": [
+      "Private Shikara Boat Arrival Across Lake Pichola",
+      "Semi-Private Moat Pools Directly Accessible from Luxury Rooms",
+      "50-Acre Wildlife Sanctuary with Peacocks & Spotted Deer",
+      "Hand-Painted Gold Leaf Domes, Whispering Fountains & Mewar Arches"
+    ],
+    "description": "Set on the tranquil shores of Lake Pichola, The Oberoi Udaivilas stands on the 200-year-old hunting grounds of the Maharana of Mewar. Featuring interconnecting domes, corridors of archways, whispering fountains, and reflection pools, this breathtaking sanctuary offers unparalleled royal Rajasthani hospitality.",
+    "color": "#FFF3BF",
+    "accentColor": "#F77F00",
+    "icon": "👑"
+  },
+  {
+    "id": "rambagh-palace",
+    "name": "Rambagh Palace, Jaipur",
+    "shortName": "Rambagh Palace",
+    "city": "Bhawani Singh Road, Jaipur, Rajasthan",
+    "tagline": "The former residence of the Maharaja of Jaipur — 'The Jewel of Jaipur'",
+    "category": "Royal Heritage",
+    "price": 34500,
+    "maxGuests": 4,
+    "rating": 5.0,
+    "badge": "Maharaja Luxury",
+    "badgeColor": "#9D4EDD",
+    "image": "assets/rambagh-palace.jpg",
+    "features": [
+      "Authentic Maharaja Royal Palace Built in 1835",
+      "47 Acres of Manicured Mughal Gardens with Dancing Peacocks",
+      "Vintage Horse-Drawn Carriage Ride on Royal Arrival",
+      "Suvarna Mahal Fine Dining Under 24-Carat Gold Leaf Ceilings"
+    ],
+    "description": "Widely celebrated as 'The Jewel of Jaipur', Rambagh Palace was the former residence of Maharaja Sawai Man Singh II and his queen, Maharani Gayatri Devi. Retaining its elaborate marble lattice work (jali), sandstone balustrades, and cupolas, guests enjoy extravagant royal luxury, polo lounge high teas, and personalized palace butler care.",
+    "color": "#E0AAFF",
+    "accentColor": "#7B2CBF",
+    "icon": "🦚"
+  }
+]
